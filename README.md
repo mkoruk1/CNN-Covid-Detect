@@ -1,7 +1,7 @@
 # CNN-Covid-Detect
 A convolutional neural network is used to predict if the person has a corona or not based on the lung image.
 
--Introduction
+# Introduction
 
 ![CNN structure](https://user-images.githubusercontent.com/62452267/185764522-6e457b70-3a2a-4833-bf50-84f284be68de.jpeg)
 
@@ -28,6 +28,6 @@ Flattening Layer:
 Converting the matrices resulting from the convolution and pooling into vectors consisting of n rows and 1 column.
 And then this output is fed to artificial neural networks as input.
 
--Results
+# Results
 The accuracy of the model is 91 percent, which is pretty good.
-To test the model, the model was provided with a picture of a liver, one with a corona and the other with a healthy lung, and the model correctly predicted which of the pictures was healthy or not.
+To test the model, I provided 2 lung images that were not seen before by the model. One of the pictures was of a healthy liver and the other of a liver with a corona. And the model correctly predicted which of the pictures was healthy or not.
