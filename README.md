@@ -1,5 +1,5 @@
 # CNN-Covid-Detect
-A convolutional neural network is used to predict if the person has a corona or not based on the lung image.
+A convolutional neural network was used to predict if the person has a corona or not based on the lung image.
 
 # Dataset
 https://www.kaggle.com/datasets/akkinasrikar/covid19-xray-images-using-cnn
